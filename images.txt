@@ -5,3 +5,8 @@ xhofe/alist:latest
 #--platform=linux/arm64 openjdk:8u212-jre
 openjdk:8u212-jre
 minio/minio:latest
+openjdk:17
+mysql:8
+redis:latest
+mongo:latest
+
