@@ -9,5 +9,10 @@
 #mysql:8
 #redis:latest
 #mongo:latest
-mysql:8.0.27
+#mysql:8.0.27
+jitsi/web:stable-10008
+jitsi/prosody:stable-10008
+jitsi/jicofo:stable-10008
+jitsi/jvb:-stable-10008
+
 
