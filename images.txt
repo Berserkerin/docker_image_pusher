@@ -9,4 +9,5 @@ openjdk:17
 mysql:8
 redis:latest
 mongo:latest
+mysql:8.0.27
 
