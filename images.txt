@@ -1,13 +1,13 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 openjdk:8u212-jre
-openjdk:8u212-jre
-minio/minio:latest
-openjdk:17
-mysql:8
-redis:latest
-mongo:latest
+#openjdk:8u212-jre
+#minio/minio:latest
+#openjdk:17
+#mysql:8
+#redis:latest
+#mongo:latest
 mysql:8.0.27
 
