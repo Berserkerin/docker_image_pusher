@@ -13,6 +13,7 @@
 #jitsi/web:stable-10008
 #jitsi/prosody:stable-10008
 #jitsi/jicofo:stable-10008
-jitsi/jvb:stable-10008
+#jitsi/jvb:stable-10008
+zlmediakit/zlmediakit:master
 
 
