@@ -17,5 +17,6 @@
 #zlmediakit/zlmediakit:master
 #python:3.10
 #ubuntu:22.04
-apacherocketmq/rocketmq-dashboard:latest
+#apacherocketmq/rocketmq-dashboard:latest
+openjdk:21
 
