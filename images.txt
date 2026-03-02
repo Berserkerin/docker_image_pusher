@@ -19,5 +19,7 @@
 #ubuntu:22.04
 #apacherocketmq/rocketmq-dashboard:latest
 #openjdk:21
-nginx
+#nginx
+apache/flink:1.17.0
+apache/flink:2.2.0
 
