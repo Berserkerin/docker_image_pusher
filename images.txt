@@ -22,5 +22,6 @@
 #nginx
 #apache/flink:1.17.0
 #apache/flink:2.2.0
-milvusdb/milvus:latest
+#milvusdb/milvus:latest
+quay.io/coreos/etcd
 
