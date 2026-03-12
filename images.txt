@@ -20,6 +20,7 @@
 #apacherocketmq/rocketmq-dashboard:latest
 #openjdk:21
 #nginx
-apache/flink:1.17.0
-apache/flink:2.2.0
+#apache/flink:1.17.0
+#apache/flink:2.2.0
+milvusdb/milvus:latest
 
