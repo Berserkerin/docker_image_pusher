@@ -28,6 +28,7 @@
 #milvusdb/milvus:v2.4.0
 #busybox:latest
 #python:3.10-slim
-ultralytics/ultralytics:latest
-
+#ultralytics/ultralytics:latest
+rust:1.85-slim
+node:20-slim
 
