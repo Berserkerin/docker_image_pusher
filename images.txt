@@ -10,10 +10,10 @@
 #redis:latest
 #mongo:latest
 #mysql:8.0.27
-#jitsi/web:stable-10008
-#jitsi/prosody:stable-10008
-#jitsi/jicofo:stable-10008
-#jitsi/jvb:stable-10008
+#jitsi/web:stable-10184
+#jitsi/prosody:stable-10184
+#jitsi/jicofo:stable-10184
+#jitsi/jvb:stable-10184
 #zlmediakit/zlmediakit:master
 #python:3.10
 #ubuntu:22.04
@@ -29,6 +29,10 @@
 #busybox:latest
 #python:3.10-slim
 #ultralytics/ultralytics:latest
-rust:1.85-slim
-node:20-slim
+#rust:1.85-slim
+#node:20-slim
+jitsi/web:stable-10184
+jitsi/prosody:stable-10184
+jitsi/jicofo:stable-10184
+jitsi/jvb:stable-10184
 
