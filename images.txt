@@ -31,8 +31,8 @@
 #ultralytics/ultralytics:latest
 #rust:1.85-slim
 #node:20-slim
-jitsi/web:stable-11248-3
-jitsi/prosody:stable-11248-3
-jitsi/jicofo:stable-11248-3
-jitsi/jvb:stable-11248-3
+ghcr.io/jitsi/web:stable-11248-3
+ghcr.io/jitsi/prosody:stable-11248-3
+ghcr.io/jitsi/jicofo:stable-11248-3
+ghcr.io/jitsi/jvb:stable-11248-3
 
