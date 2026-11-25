@@ -46,6 +46,6 @@ nginx:1.31.10
 #redis
 redis:8.12.0
 #rocketmq
-apache/rocketmq:5.5.1
+apache/rocketmq:5.5.0
 
 
