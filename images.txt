@@ -36,7 +36,7 @@
 #ghcr.io/jitsi/jicofo:stable-11248-3
 #ghcr.io/jitsi/jvb:stable-11248-3
 #jdk
-eclipse-temurin:17.0.21_2-jdk-jammy
+eclipse-temurin:17.0.21.1_2-jdk-jammy
 #minio
 minio/minio:RELEASE.2025-10-15T17-29-55Z
 #mysql
